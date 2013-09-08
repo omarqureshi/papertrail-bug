@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: bug-poc-dev
+
+test:
+  adapter: postgresql
+  database: bug-poc-test
